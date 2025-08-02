@@ -1,0 +1,9 @@
+@import "tailwindcss";
+/* @plugin "flowbite-react/plugin/tailwindcss";
+@source "../.flowbite-react/class-list.json"; */
+
+.amdow{
+    filter: drop-shadow(1px 1px 6px oklch(80.9% 0.105 251.813));
+}.ammdow{
+    filter: drop-shadow(1px 1px 6px oklch(80.9% 0.105 251.813));
+}
